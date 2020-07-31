@@ -2,6 +2,8 @@
 
 ![Screenshot of the website](Assets/stockgif.gif)
 
+**Deployed Application can be viewed [here](https://mitchelle-b.github.io/Asset-Portfolio-Generator/)**  
+
 ## About The Page ## 
 We created an application that when l open the app, I am presented with a selection of conservative, balanced or aggressive risk tolerance options;
 If l know my risk tolerance, I select an option that aligns with my risk tolerance and l am presented with stocks that align my risk profile; 
